@@ -1,1 +1,11 @@
+Hành động 1: Tập trung vào kiến thức cốt lõi (Core Fundamentals).
+•	Nhiệm vụ 1.1: Hoàn thành tốt các môn đại cương lập trình (ví dụ: Nhập môn lập trình, Cấu trúc dữ liệu).
+•	Nhiệm vụ 1.2: Luyện tập thuật toán hàng ngày trên các nền tảng (LeetCode, HackerRank).
+Hành động 2: Phát triển kỹ năng tự quản lý (Self-Management).
+•	Nhiệm vụ 2.1: Xây dựng thói quen lập kế hoạch và quản lý thời gian (sử dụng Calendar, Todoist).
+•	NhiệmVụ 2.2: Làm chủ công cụ Git/GitHub để quản lý code.
+Hành động 3: Mở rộng và áp dụng kiến thức (Exploration & Application).
+•	Nhiệm vụ 3.1: Tự học một ngôn ngữ lập trình mới (ví dụ: Python hoặc JavaScript).
+•	Nhiệm vụ 3.2: Tham gia một CLB học thuật hoặc tìm một người cố vấn (mentor).
+
 
