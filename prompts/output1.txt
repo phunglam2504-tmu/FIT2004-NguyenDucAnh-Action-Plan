@@ -1,1 +1,7 @@
+AI giải thích rằng Nguyên lý Kim Tự Tháp (Pyramid Principle) là phương pháp cấu trúc thông tin của Barbara Minto, bắt đầu bằng việc đưa ra kết luận/ý chính (đỉnh kim tự tháp) trước, sau đó mới trình bày các luận điểm hỗ trợ (thân) và chi tiết (đáy).
+Gợi ý cấu trúc cho Kế hoạch hành động:
+•	Đỉnh (Kết luận chính): Mục tiêu học tập tổng quan của bạn là gì? (Ví dụ: "Trở thành lập trình viên giỏi").
+•	Thân (Các luận điểm hỗ trợ): 3-4 nhóm hành động chính bạn cần làm để đạt mục tiêu đó. (Ví dụ: 1. Nắm vững nền tảng, 2. Thực hành dự án, 3. Phát triển kỹ năng mềm).
+•	Đáy (Chi tiết/Dữ liệu): Các nhiệm vụ (subtask) và bước cụ thể (step-by-step) cho từng nhóm hành động.
+
 
