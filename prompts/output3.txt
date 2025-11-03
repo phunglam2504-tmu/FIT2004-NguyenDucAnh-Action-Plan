@@ -1,1 +1,5 @@
+Dưới đây là 3 bước cụ thể để triển khai nhiệm vụ đó:
+1.	Sử dụng công cụ: Chọn và cài đặt một công cụ hỗ trợ. Ví dụ: Google Calendar để lên lịch cố định, và một app Pomodoro (như Forest hoặc TickTick) để bấm giờ.
+2.	Lên lịch cuối ngày: Dành 15 phút mỗi tối (trước khi đi ngủ) để review công việc trong ngày và lập kế hoạch chi tiết (chia theo slot 30 phút) cho ngày hôm sau trên Google Calendar.
+3.	Thực thi và Tuân thủ: Khi bắt đầu một nhiệm vụ học tập (ví dụ: làm bài tập code), bật app Pomodoro, đặt mục tiêu hoàn thành (ví dụ: 2 "session" 25 phút). Cam kết không sử dụng điện thoại/mạng xã hội trong thời gian này.
 
