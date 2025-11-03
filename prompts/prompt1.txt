@@ -1,1 +1,5 @@
+Tôi là sinh viên CNTT năm nhất, đang làm bài tập môn Phát triển kỹ năng cá nhân. Đề bài yêu cầu tôi "Tạo Bản Kế Hoạch Hành Động... xây dựng theo Nguyên lý Kim Tự Tháp". 
+
+Bạn hãy giải thích ngắn gọn Nguyên lý Kim Tự Tháp là gì và gợi ý cho tôi một cấu trúc (dàn ý) cho Bản Kế Hoạch Hành Động theo nguyên lý này, với mục tiêu học tập là của sinh viên năm nhất CNTT.
+
 
