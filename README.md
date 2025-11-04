@@ -51,7 +51,7 @@ ActionPlan_NguyenDucAnh/
 |----------|-------------------|
 | **Báo cáo Hoàn chỉnh (.docx - nộp LMS)** | `docs/action-plan.docx` |
 | **Prompt & Output AI Chatbot** | thư mục `prompts/` |
-| **Nhật ký làm việc (Worklog)** | `worklog/worklog.md` |
+| **Nhật ký làm việc (Worklog)** | worklog/worklog.md |
 | **Ảnh minh chứng (ChatGPT/GitHub)** | thư mục `screenshots/` |
 | **Link GitHub Repo** | *https://github.com/phunglam2504-tmu/FIT2004-NguyenDucAnh-Action-Plan.git* |
 
@@ -61,9 +61,9 @@ ActionPlan_NguyenDucAnh/
 
 | Phiên bản | Thời gian | Nội dung chính |
 |-----------|-----------|------------------|
-| **v1.0 – Initial Draft** | 25/10/2025 | Tạo repo, thêm README.md, khung thư mục. |
-| **v2.0 – Update Content** | 27/10/2025 | Hoàn thiện 3 Hành động, thêm prompts & worklog. |
-| **v3.0 – Final Submission** | 28/10/2025 | Hoàn thiện file `.docx`, định dạng chuẩn, upload & nộp LMS. |
+| **v1.0 – Initial Draft** | Tuần 1 (ghi thêm ngày) | Tạo repo, thêm README.md, khung thư mục. |
+| **v2.0 – Update Content** | Tuần 2 (ghi thêm ngày) | Hoàn thiện 3 Hành động, thêm prompts & worklog. |
+| **v3.0 – Final Submission** | Tuần 3 (ghi thêm ngày) | Hoàn thiện file `.docx`, định dạng chuẩn, upload & nộp LMS. |
 
 ---
 
