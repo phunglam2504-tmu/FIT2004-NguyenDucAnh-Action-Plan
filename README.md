@@ -53,7 +53,7 @@ ActionPlan_NguyenDucAnh/
 | **Prompt & Output AI Chatbot** | thư mục `prompts/` |
 | **Nhật ký làm việc (Worklog)** | `worklog/worklog.md` |
 | **Ảnh minh chứng (ChatGPT/GitHub)** | thư mục `screenshots/` |
-| **Link GitHub Repo** | *(điền sau khi public repo)* |
+| **Link GitHub Repo** | *https://github.com/phunglam2504-tmu/FIT2004-NguyenDucAnh-Action-Plan.git* |
 
 ---
 
