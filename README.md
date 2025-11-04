@@ -1,7 +1,7 @@
 # BÁO CÁO DỰ ÁN: BẢN KẾ HOẠCH HÀNH ĐỘNG VỚI AI & NGUYÊN LÝ KIM TỰ THÁP
 
 Dự án cá nhân thuộc học phần **FIT2004 – Phát triển kỹ năng cá nhân**.  
-Sinh viên xây dựng Bản Kế Hoạch Hành Động năm nhất theo **Nguyên lý Kim Tự Tháp (Pyramid Principle)**, có sử dụng **AI Chatbot (ChatGPT/Gemini)** và quản lý phiên bản bằng **GitHub**.
+Em xây dựng Bản Kế Hoạch Hành Động năm nhất theo **Nguyên lý Kim Tự Tháp (Pyramid Principle)**, có sử dụng **AI Chatbot (ChatGPT/Gemini)** và quản lý phiên bản bằng **GitHub**.
 
 ---
 
@@ -19,7 +19,7 @@ Sinh viên xây dựng Bản Kế Hoạch Hành Động năm nhất theo **Nguy�
 
 ## Cấu trúc Thư mục Repository
 
-Cấu trúc thư mục được tổ chức rõ ràng để giảng viên dễ theo dõi & chấm điểm:
+Cấu trúc thư mục được em trình bày và tổ chức theo sơ đồ dưới đâyđây:
 
 ```
 ActionPlan_NguyenDucAnh/
@@ -45,7 +45,7 @@ ActionPlan_NguyenDucAnh/
 
 ---
 
-## Tài liệu chính & Minh chứng
+## Tài liệu và minh chứng thực hiện
 
 | Nội dung | File / Đường dẫn |
 |----------|-------------------|
@@ -53,7 +53,7 @@ ActionPlan_NguyenDucAnh/
 | **Prompt & Output AI Chatbot** | thư mục `prompts/` |
 | **Nhật ký làm việc (Worklog)** | worklog/worklog.md |
 | **Ảnh minh chứng (ChatGPT/GitHub)** | thư mục `screenshots/` |
-| **Link GitHub Repo** | *https://github.com/phunglam2504-tmu/FIT2004-NguyenDucAnh-Action-Plan.git* |
+| **Link GitHub Repo** | *https://github.com/DNU-Onschool/aichatbotandpyramid-principlev1-0-phunglam2504-tmu.git* |
 
 ---
 
@@ -64,9 +64,9 @@ ActionPlan_NguyenDucAnh/
 | **v1.0 – Initial Draft** | Tuần 1 (ghi thêm ngày) | Tạo repo, thêm README.md, khung thư mục. |
 | **v2.0 – Update Content** | Tuần 2 (ghi thêm ngày) | Hoàn thiện 3 Hành động, thêm prompts & worklog. |
 | **v3.0 – Final Submission** | Tuần 3 (ghi thêm ngày) | Hoàn thiện file `.docx`, định dạng chuẩn, upload & nộp LMS. |
+| **.0 – Bổ sung thêm nếu cần** | Tuần 4 (ghi thêm ngày) | Bổ sung thêm nội dung nếu cần |
 
----
 
-## Link Repo GitHub: https://github.com/phunglam2504-tmu/FIT2004-NguyenDucAnh-Action-Plan.git
+## Link Repo GitHub: *https://github.com/DNU-Onschool/aichatbotandpyramid-principlev1-0-phunglam2504-tmu.git*
 
 
