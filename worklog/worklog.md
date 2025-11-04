@@ -1,41 +1,15 @@
-# 🧾 Work Log
+# 🧾 Worklog / Lịch sử làm việc
 
-
-## Tuần 1 (25–27/10/2025)
-
-### 🧩 Công việc chính đã làm
-- Đọc kỹ đề bài và nghiên cứu Nguyên lý Kim Tự Tháp (Pyramid Principle).  
-- Tạo tài khoản GitHub và repository **“FIT2004-Action-Plan”**.  
-- Brainstorm mục tiêu học tập cá nhân, viết phần mở đầu *(Giới thiệu – Mục tiêu – Động lực)*.  
-
-### ✅ Kết quả chính
-- Hiểu rõ yêu cầu đề tài.  
-- Hoàn thành phần mở đầu và tạo repo GitHub.  
-
-
-## Tuần 2 (27–29/10/2025)
-
-### 🧩 Công việc chính đã làm
-- Viết 3 nhóm hành động và nhiệm vụ chi tiết.  
-- Dùng ChatGPT *(Prompt 2–3)* để triển khai các tầng nội dung.  
-- Tạo **README.md** và commit bản nháp đầu tiên lên GitHub.  
-- Hoàn thiện bảng **Prompt & Output**.  
-
-### ✅ Kết quả chính
-- Hoàn thành 3 hành động chính và các nhiệm vụ con.  
-- Có tối thiểu **3 Prompt + Output** minh chứng.  
-- Repository có **README.md** và file kế hoạch dự thảo.  
-
-
-## Tuần 3 (28–29/10/2025)
-
-### 🧩 Công việc chính đã làm
-- Rà soát, chỉnh sửa và hoàn thiện toàn bộ nội dung kế hoạch.  
-- Viết phần **Worklog**, định dạng Word (.docx).  
-- Tổng hợp **Prompt + Output + Link GitHub** vào file.  
-- Upload và commit bản nộp cuối cùng, nộp bài lên **LMS**.  
-
-### ✅ Kết quả chính
-- Hoàn thành sản phẩm cuối gồm **file Word** và **GitHub repo**.  
-- Nộp bài đúng hạn, đúng định dạng và cấu trúc yêu cầu.  
-
+| Ngày | Nội dung công việc |
+|------|--------------------|
+| 30/09/2025 | Đọc kỹ đề bài và nghiên cứu Nguyên lý Kim Tự Tháp (Pyramid Principle). |
+| 02/10/2025 | Tạo tài khoản GitHub và repository **“FIT2004-Action-Plan”**. |
+| 04/10/2025 | Brainstorm mục tiêu học tập, viết phần mở đầu *(Giới thiệu – Mục tiêu – Động lực)*. |
+| 07/10/2025 | Viết 3 nhóm hành động và các nhiệm vụ chi tiết. |
+| 09/10/2025 | Chạy **Prompt 2–3** trên ChatGPT để triển khai các tầng nội dung theo Kim Tự Tháp. |
+| 11/10/2025 | Tạo **README.md** và cập nhật bản nháp đầu tiên lên GitHub. |
+| 13/10/2025 | Hoàn thiện bảng **Prompt & Output** minh chứng sử dụng AI. |
+| 16/10/2025 | Rà soát, chỉnh sửa và hoàn thiện toàn bộ nội dung kế hoạch hành động. |
+| 18/10/2025 | Viết phần **Worklog**, định dạng và hoàn thiện file Word (.docx). |
+| 20/10/2025 | Tổng hợp **Prompt + Output + Link GitHub** vào file báo cáo. |
+| 21/10/2025 | Upload và commit bản nộp cuối cùng (**Final submission v1.0**) lên **LMS**. |
